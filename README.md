@@ -1,14 +1,14 @@
 # SE---Mini-Project
 
 #OBJECTIVE:
-  THE CALCULATOR WITH VARIOUS FUNCTION IS AN AUTOMATED TOOL-KIT.
+  THE CALCULATOR WITH VARIOUUS FUNCTION IS AN AUTOMATED TOOL-KIT.
  
  
  #CONTRIBUTOR:
- <br>
- 1)111903012 - AKSHAY KOLHE
+ 1)111903012 - AKSHAY KOLHE [Addition Function to till Fibonacci Function]
 <br>
- 2)111903016 - ANIKET MOHOD
+<br>
+ 2)111903016 - ANIKET MOHOD [Factorial Function to till Octal_to_Decimal Convertion]
 
 
 Follow the below steps to start the TOOL-KIT
